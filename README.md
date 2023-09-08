@@ -30,3 +30,5 @@ These visuals were integrated into a cohesive narrative using Tableau's "story" 
 **Presentation to the Class:**
 Our analysis and insights were presented to classmates.
 Tableau's "story" feature facilitated an engaging and accessible presentation.
+
+To view our complete analysis, you can check out our [Tableau story] (https://public.tableau.com/app/profile/alessandro.roli/viz/TheLook_e-commerce_analysis/E-COMMERCE)
