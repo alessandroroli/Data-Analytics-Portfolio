@@ -1,6 +1,6 @@
 # Portfolio Data Analysis
 
-PROJECT #1
+***PROJECT #1***
 
 **Project Overview: E-commerce Data Exploration**
 
