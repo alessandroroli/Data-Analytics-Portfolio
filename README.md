@@ -3,7 +3,7 @@
 ***PROJECT #1***
 
 **Project Overview: E-commerce Data Exploration**  
-In this project, we embarked on a comprehensive journey of data exploration, leveraging a diverse array of tools and methodologies to unearth meaningful insights from e-commerce data. Here's a high-level summary of the steps we undertook:
+In this project, I worked with a team of 5 individuals, and together, we embarked on a comprehensive data exploration journey. We leveraged a diverse array of tools and methodologies to uncover meaningful insights from e-commerce data. Here's a high-level summary of the steps we took:
 
 **Data Retrieval from BigQuery:**  
 We initiated the project by extracting valuable the look e-commerce data using SQL queries in BigQuery.
