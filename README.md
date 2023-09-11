@@ -31,3 +31,15 @@ Our analysis and insights were presented to classmates.
 Tableau's "story" feature facilitated an engaging and accessible presentation.
 
 To view our complete analysis, you can check out our **[Tableau story](https://public.tableau.com/app/profile/alessandro.roli/viz/TheLook_e-commerce_analysis/E-COMMERCE)** and interact with it.
+
+
+***PROJECT #2***
+
+**Project Overview: Analysis of a Software Professionals Dataset and an Indian Startups Fundings Dataset with Python**
+
+Part 1: In the first analysis, I worked with a dataset on Kaggle containing information about over 20,000 software professionals. I used Python to conduct an analysis and extract various insights.
+
+Part 2: In the second analysis, I worked with a dataset on Kaggle containing information about funding for Indian startups in the years 2019, 2020, and 2021. I began with an initial analysis using Python and then connected it with the dataset from Part 1 for a more in-depth analysis.
+
+You can see more information in the project folder.
+
