@@ -2,7 +2,7 @@
 
 ***PROJECT #1***
 
-**Project Overview: TheLook E-commerce Data Analysys**  
+**Project Overview: TheLook E-commerce Data Analysis**  
 In this project, I worked with a team of 5 individuals, and together, we embarked on a comprehensive data exploration journey. We leveraged a diverse array of tools and methodologies to uncover meaningful insights from e-commerce data. Here's a high-level summary of the steps we took:
 
 **Data Retrieval from BigQuery:**  
