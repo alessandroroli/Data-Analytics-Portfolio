@@ -43,3 +43,9 @@ Part 2: In the second analysis, I worked with a dataset on Kaggle containing inf
 
 You can see more information in the project folder.
 
+***PROJECT #3***
+For this project, I worked with a partially cleaned dataset, which I organized in Tableau, and then focused on visually representing some insights.
+The dataset pertains to The European Social Survey (ESS), which is a large-scale survey of social attitudes and issues among people living in Europe.
+This dataset is from the 2016/17 round of the survey and includes over 500 variables, surveying more than 40,000 people.
+You can see my analysis **[here]https://public.tableau.com/app/profile/alessandro.roli/viz/AnalysisofEuropeanAttitudestoClimateChangeandEnergy/Story1**.
+
