@@ -50,3 +50,7 @@ The dataset pertains to The European Social Survey (ESS), which is a large-scale
 This dataset is from the 2016/17 round of the survey and includes over 500 variables, surveying more than 40,000 people.
 You can see my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/AnalysisofEuropeanAttitudestoClimateChangeandEnergy/Story1)**.
 
+***PROJECT #4***  
+
+In this project, I worked with a dataset available on Tableau: 'World Indicators,' and I created a dashboard to communicate how the global financial crisis has impacted the world from the perspective of GDP, using a journalistic approach. You can view my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/GDPandGlobalFinancialCrisis/Dashboard1)**.
+
