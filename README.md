@@ -56,6 +56,7 @@ You can see my analysis **[here](https://public.tableau.com/app/profile/alessand
 In this project, I worked with a dataset available on Tableau: 'World Indicators,' and I created a dashboard to communicate how the global financial crisis has impacted the world from the perspective of GDP, using a journalistic approach. You can view my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/GDPandGlobalFinancialCrisis/Dashboard1)**.
 
 ***PROJECT #5***  
+
 **Project Overview: European Soccer Database Analysis**
 
 This project involves working with the European Soccer Database, which consists of four CSV files:
