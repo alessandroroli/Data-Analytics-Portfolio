@@ -54,3 +54,31 @@ You can see my analysis **[here](https://public.tableau.com/app/profile/alessand
 
 In this project, I worked with a dataset available on Tableau: 'World Indicators,' and I created a dashboard to communicate how the global financial crisis has impacted the world from the perspective of GDP, using a journalistic approach. You can view my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/GDPandGlobalFinancialCrisis/Dashboard1)**.
 
+***PROJECT #5***  
+**Project Overview: European Soccer Database Analysis**
+
+This project involves working with the European Soccer Database, which consists of four CSV files:
+- leagues.csv
+- match.csv
+- player.csv
+- team.csv
+
+The goal is to perform various data analysis tasks using SQL, providing insights into different aspects of European soccer leagues, teams, and players.
+
+**Data Preparation**  
+**Dataset Creation:** A new dataset called “Final_Exercise” was created in Google BigQuery, and each CSV file was loaded as a separate table.  
+**Schema Design:** Using Lucidchart, a schema representing the relationship between all tables was created. This included designating primary and foreign keys and illustrating table connections.
+
+**Analysis Tasks**  
+**Dataset Time Interval:** Calculated the number of days between the oldest and most recent match.  
+**Home Goals Analysis:** Produced statistics (min, average, mid-range, max, sum) for home goals scored per Season and League.  
+**Season and League Analysis:** Determined the number of unique seasons and analyzed matches played by each league per season.  
+**BMI Analysis:** Created a PlayerBMI table, analyzed players' BMI, and filtered for optimal BMI values.  
+**Team Performance Analysis:** Identified teams with the highest total number of goals in recent seasons and across different seasons.   
+
+sql_queries/: Directory containing all SQL queries used for analysis.  
+schema_design/: Lucidchart schema diagrams.  
+data_analysis/: Analysis reports and insights derived from the queries.  
+dataset/: Original CSV files used in the project.  
+
+
