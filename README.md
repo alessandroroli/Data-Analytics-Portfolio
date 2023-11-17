@@ -66,7 +66,7 @@ This project involves working with the European Soccer Database, which consists 
 The goal is to perform various data analysis tasks using SQL, providing insights into different aspects of European soccer leagues, teams, and players.
 
 **Data Preparation**  
-**Dataset Creation:** A new dataset called “Final_Exercise” was created in Google BigQuery, and each CSV file was loaded as a separate table.  
+**Dataset Creation:** A new dataset about European Soccer Database was created in Google BigQuery, and each CSV file was loaded as a separate table.  
 **Schema Design:** Using Lucidchart, a schema representing the relationship between all tables was created. This included designating primary and foreign keys and illustrating table connections.
 
 **Analysis Tasks**  
@@ -75,10 +75,3 @@ The goal is to perform various data analysis tasks using SQL, providing insights
 **Season and League Analysis:** Determined the number of unique seasons and analyzed matches played by each league per season.  
 **BMI Analysis:** Created a PlayerBMI table, analyzed players' BMI, and filtered for optimal BMI values.  
 **Team Performance Analysis:** Identified teams with the highest total number of goals in recent seasons and across different seasons.   
-
-sql_queries/: Directory containing all SQL queries used for analysis.  
-schema_design/: Lucidchart schema diagrams.  
-data_analysis/: Analysis reports and insights derived from the queries.  
-dataset/: Original CSV files used in the project.  
-
-
