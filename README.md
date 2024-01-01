@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-***PROJECT #1***
+$${\color{blue}PROJECT-1}$$
 
 **Project Overview: TheLook E-commerce Data Analysis**  
 In this project, I worked with a team of 5 individuals, and together, we embarked on a comprehensive data exploration journey. We leveraged a diverse array of tools and methodologies to uncover meaningful insights from e-commerce data. Here's a high-level summary of the steps we took:
@@ -31,10 +31,9 @@ These visuals were integrated into a cohesive narrative using Tableau's "story" 
 Our analysis and insights were presented to classmates.
 Tableau's "story" feature facilitated an engaging and accessible presentation.
 
-To view our complete analysis, you can check out our **[Tableau story](https://public.tableau.com/app/profile/alessandro.roli/viz/TheLook_e-commerce_analysis/E-COMMERCE)** and interact with it.
+To view our complete analysis, you can check out our **[Tableau story](https://public.tableau.com/app/profile/alessandro.roli/viz/TheLook_e-commerce_analysis/E-COMMERCE)** and interact with it.  
 
-
-***PROJECT #2***
+$${\color{blue}PROJECT-2}$$
 
 **Project Overview: Analysis of a Software Professionals Dataset and an Indian Startups Fundings Dataset with Python**
 
@@ -42,20 +41,20 @@ To view our complete analysis, you can check out our **[Tableau story](https://p
 
 - Part 2: In the second analysis, I worked with a dataset on Kaggle containing information about funding for Indian startups in the years 2019, 2020, and 2021. I began with an initial analysis using Python and then connected it with the dataset from Part 1 for a more in-depth analysis.
 
-You can see more information in the project folder.
+You can see more information in the project folder.  
 
-***PROJECT #3***   
+$${\color{blue}PROJECT-3}$$
 
 For this project, I worked with a partially cleaned dataset, which I organized in Tableau, and then focused on visually representing some insights.
 The dataset pertains to The European Social Survey (ESS), which is a large-scale survey of social attitudes and issues among people living in Europe.
 This dataset is from the 2016/17 round of the survey and includes over 500 variables, surveying more than 40,000 people.
 You can see my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/AnalysisofEuropeanAttitudestoClimateChangeandEnergy/Story1)**.
 
-***PROJECT #4***  
+$${\color{blue}PROJECT-4}$$ 
 
-In this project, I worked with a dataset available on Tableau: 'World Indicators,' and I created a dashboard to communicate how the global financial crisis has impacted the world from the perspective of GDP, using a journalistic approach. You can view my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/GDPandGlobalFinancialCrisis/Dashboard1)**.
+In this project, I worked with a dataset available on Tableau: 'World Indicators,' and I created a dashboard to communicate how the global financial crisis has impacted the world from the perspective of GDP, using a journalistic approach. You can view my analysis **[here](https://public.tableau.com/app/profile/alessandro.roli/viz/GDPandGlobalFinancialCrisis/Dashboard1)**.  
 
-***PROJECT #5***  
+$${\color{blue}PROJECT-5}$$  
 
 **Project Overview: European Soccer Database Analysis**
 
